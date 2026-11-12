@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Datasets and large binary files
+data/*
+!data/.gitignore
+
+# Reference clones / large external repos
+references/
+
+# OS and temporary files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo

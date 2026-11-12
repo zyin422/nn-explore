@@ -1,0 +1,5 @@
+# pyrefly.toml
+project-includes = ["."]
+search-path = ["."]
+python-interpreter-path = ".venv/bin/python"
+site-packages-path = [".venv/lib/python3.14/site-packages"]
